@@ -1,0 +1,12 @@
+{
+    "name": "rpariona81/fatfree-project",
+    "authors": [
+        {
+            "name": "Ronald Pariona",
+            "email": "ronald.pariona.isidro@gmail.com"
+        }
+    ],
+    "require": {
+        "bcosca/fatfree-core": "^3.7"
+    }
+}
